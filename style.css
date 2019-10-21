@@ -1,0 +1,27 @@
+.nav-bar{
+    background-color: aqua;
+    width: 100%;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    text-decoration: none;
+    text-align: center;
+    font-size: 100px;
+}
+
+.option{
+    margin: 0;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+body{
+    background-color: black;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
